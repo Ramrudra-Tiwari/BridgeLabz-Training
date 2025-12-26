@@ -1,4 +1,4 @@
-package com.bridgelabz.oops.levelone;
+package com.classandobject.level1;
 
 public class Employee {	//non-static variables
 	String name;
