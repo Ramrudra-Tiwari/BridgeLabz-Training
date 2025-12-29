@@ -22,3 +22,32 @@
  - Procedural programming examples
  - Practice problems for concept reinforcement
 ---
+
+# 📅 Week 2: Constructors & Access Modifiers
+
+*(Date: 27-Dec-2025)*
+
+*-Topics Covered*
+ - Best Practices in Constructors 
+ - Use of this keyword
+ - Constructor overloading
+ - Constructor chaining
+ - Copy constructor
+ - Keeping constructors lightweight
+ - Encapsulating logic using private methods
+ - Best Practices in Access Modifiers
+ - Least privilege principle
+ - Encapsulation using private variables
+ - Getters and setters
+ - Proper use of protected
+ - Avoiding unnecessary public access
+ - Preventing data leakage
+ - Instance vs Class Variables and Methods
+ - Static variables and static methods
+ - Programming Practice
+ - Constructor based programs
+ - Instance vs class member programs
+ - Access modifier based programs
+ - Practice problems for concept reinforcement
+
+---
