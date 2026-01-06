@@ -31,7 +31,7 @@ This week focuses on understanding and implementing *Object-Oriented Programming
 ---
 
 
-# 📅 Day 3 – this, static, final key words and instanceof operator
+## 📅 Day 3 – this, static, final key words and instanceof operator
 *📅 Date: 29-Dec-2025 
 
 
@@ -73,4 +73,37 @@ This week focuses on understanding and implementing *Object-Oriented Programming
  - Access Modifiers and Inheritance
 **🔗 *Code Link:***
 👉 [Inheritance] https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance
+
+
+---
+
+## 📅 Day 5 - Java Encapsulation and Polymorphism
+*📅(Date: 01-Jan-2026)
+
+**Topics Covered**
+
+ - *Encapsulation*
+ - Key Benefits of Encapsulation
+   - Data Hiding
+   - Increased Flexibility
+   - Reusability
+ - Example of Encapsulation 
+
+ *- Polymorphism*
+  - Types of Polymorphism
+    - Compile-Time (Static) Polymorphism
+      - Method Overloading
+    - Runtime (Dynamic) Polymorphism
+      - Method Overriding
+ - Polymorphism with Interfaces
+ - Polymorphism with Abstract Classes
+ - Java Interfaces and Abstract Classes
+   - Abstract Class
+   - Interface
+- Interface vs Class in Java
+- When to Use Interface vs Class
+
+🔗 *Code Link:*  
+👉 [Java Encapsulation and Polymorphism] https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulationandpolymorphism
+
 ---
