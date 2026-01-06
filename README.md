@@ -5,6 +5,8 @@
 
 Installed and configured Git.
 Set up GitHub repository.
+
+``` 
 BridgeLabz-Training/
 │── core-java-practice/
 │ │── gcr-codebase/
@@ -21,7 +23,8 @@ BridgeLabz-Training/
 Learned basic Git commands (init, clone, add, commit, push).
 Successfully pushed files to the remote repository.
 
---- 
+```
+
 
 ## Day 2 – Git Practice & Basic Java Programs
 (Date: 17-Dec-2025)
@@ -175,7 +178,8 @@ instanceof Operator
 
 --- 
 
-## 📅 Day 4 - Java Inheritance
+## 📅 Day 4 - Java InheritanceDay 5 - Java Encapsulation and Polymorphism
+*📅(Date: 31-Dec-2025)
 
 **Topics Covered**
 
@@ -190,4 +194,35 @@ instanceof Operator
  - Access Modifiers and Inheritance
 **🔗 *Code Link:***
 👉 [Inheritance] https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance
+
+##📅 Day 5 - Java Encapsulation and Polymorphism
+*📅(Date: 01-Jan-2026)
+
+**Topics Covered**
+
+ - *Encapsulation*
+ - Key Benefits of Encapsulation
+   - Data Hiding
+   - Increased Flexibility
+   - Reusability
+ - Example of Encapsulation 
+
+ *- Polymorphism*
+  - Types of Polymorphism
+    - Compile-Time (Static) Polymorphism
+      - Method Overloading
+    - Runtime (Dynamic) Polymorphism
+      - Method Overriding
+ - Polymorphism with Interfaces
+ - Polymorphism with Abstract Classes
+ - Java Interfaces and Abstract Classes
+   - Abstract Class
+   - Interface
+- Interface vs Class in Java
+- When to Use Interface vs Class
+
+🔗 *Code Link:*  
+👉 [Java Encapsulation and Polymorphism] https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulationandpolymorphism
+
+---
 
