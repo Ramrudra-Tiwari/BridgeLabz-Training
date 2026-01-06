@@ -107,3 +107,23 @@ This week focuses on understanding and implementing *Object-Oriented Programming
 👉 [Java Encapsulation and Polymorphism] https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulationandpolymorphism
 
 ---
+
+
+## 📅 Day 6 - Java OOPs Scenario-based Problems
+*📅(Date: 03-Jan-2026)
+
+**Topics Covered**
+
+
+1. Hospital Patient Management System
+2. Vehicle Rental Application
+3. University Course Enrollment System
+4. E-Wallet Application
+5. Smart Home Automation System
+6. CabbyGo – A Ride-Hailing App in the Making
+7. MyBank – Managing Customer Accounts
+
+🔗 *Code Link:*  
+👉 [Java OOPs Scenario-based Problems] https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodebase/src/com
+
+---
