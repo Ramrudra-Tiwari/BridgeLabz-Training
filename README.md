@@ -127,3 +127,16 @@ This week focuses on understanding and implementing *Object-Oriented Programming
 👉 [Java OOPs Scenario-based Problems] https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodebase/src/com
 
 ---
+
+
+## 📅 Day 7 - Java OOPs Scenario-based Problems
+*📅 (Date: 06-Jan-2026)
+
+**Topics Covered**
+
+
+8. CampusConnect – College Information System
+9. SwiftCart – The Grocery Shopping App
+
+🔗 *Code Link:*  
+👉 [Java OOPs Scenario-based Problems] https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodebase/src/com
