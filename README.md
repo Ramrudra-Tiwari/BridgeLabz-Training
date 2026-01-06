@@ -1,4 +1,4 @@
-**#📅 Week 1: Git, GitHub & Java Programming Fundamentals**
+# 📅 Week 1: Git, GitHub & Java Programming Fundamentals**
 
 ##  Day 1 – Git & GitHub Setup
 (Date: 16-Dec-2025)
@@ -26,8 +26,8 @@ Successfully pushed files to the remote repository.
 ```
 
 
-## Day 2 – Git Practice & Basic Java Programs
-(Date: 17-Dec-2025)
+## 📅 Day 2 – Git Practice & Basic Java Programs
+📅 (Date: 17-Dec-2025)
 
 Practiced Git workflow to understand commits and version control.
 Solved very basic Java programs to understand syntax and structure.
@@ -37,8 +37,8 @@ Practiced adding, committing, and pushing Java files to GitHub.
 
 ---
 
-## Day 3 – Programming Elements in Java
-(Date: 18-Dec-2025)
+## 📅 Day 3 – Programming Elements in Java
+📅(Date: 18-Dec-2025)
 
 Studied Java programming elements:
 Variables and data types
@@ -52,8 +52,8 @@ Committed and pushed solutions to the repository.
 ---
 
 
-## Day 4 – Control Flow & Logical Constructs
-(Date: 19-Dec-2025)
+## 📅Day 4 – Control Flow & Logical Constructs
+📅 (Date: 19-Dec-2025)
 
 Studied logical constructs in Java:
 if, if-else
@@ -74,8 +74,8 @@ Committed and pushed solutions to the repository.
 ---
 
 
-## Day 5 – Arrays & Basic Problem Solving
-(Date: 20-Dec-2025)
+## 📅 Day 5 – Arrays & Basic Problem Solving
+📅 (Date: 20-Dec-2025)
 
 Studied arrays in Java:
 Single-dimensional arrays
@@ -91,8 +91,8 @@ Committed and pushed solutions to the repository.
 
 ---
 
-## Day 6 – Strings & Methods
-(Date: 22-Dec-2025)
+##  📅 Day 6 – Strings & Methods
+ 📅 (Date: 22-Dec-2025)
 
 Studied String concepts:
 String creation
@@ -110,8 +110,8 @@ Committed and pushed solutions to the repository.
 
 ---
 
-## Day 7 – Built-in Functions & Extra Practice
-(Date: 23-Dec-2025)
+##  📅 Day 7 – Built-in Functions & Extra Practice
+ 📅 (Date: 23-Dec-2025)
 
 Practiced Java built-in functions.
 Implemented utility programs such as:
@@ -126,13 +126,13 @@ Committed and pushed all changes successfully.
 
 ---
 
-**#📅 Week 2: Object-Oriented Programming Concepts**
+# 📅 Week 2: Object-Oriented Programming Concepts**
 
 This week focuses on understanding and implementing *Object-Oriented Programming (OOP)* principles using Java.
 
 ---
 
-## Day 1 – Classes & Objects  
+##  📅 Day 1 – Classes & Objects  
 *📅 26 December 2025*
 
 - Learned the basics of *procedural programming* and its limitations.
@@ -143,7 +143,7 @@ This week focuses on understanding and implementing *Object-Oriented Programming
 
  ---
 
-## Day 2 – Constructors & Access Modifiers
+##  📅 Day 2 – Constructors & Access Modifiers
 *📅 27 December 2025
 
 -Learned the purpose of constructors for object initialization.
@@ -158,7 +158,7 @@ This week focuses on understanding and implementing *Object-Oriented Programming
 ## 📅 Day 3 – this, static, final key words and instanceof operator
 *📅 (Date: 29-Dec-2025)
 
--Topics Covered
+**Topics Covered**
 
  - this Keyword
  - Common Uses of this
@@ -228,3 +228,22 @@ instanceof Operator
 
 ---
 
+
+## 📅 Day 6 - Java OOPs Scenario-based Problems
+*📅(Date: 03-Jan-2026)
+
+**Topics Covered**
+
+
+1. Hospital Patient Management System
+2. Vehicle Rental Application
+3. University Course Enrollment System
+4. E-Wallet Application
+5. Smart Home Automation System
+6. CabbyGo – A Ride-Hailing App in the Making
+7. MyBank – Managing Customer Accounts
+
+🔗 *Code Link:*  
+👉 [Java OOPs Scenario-based Problems] https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodebase/src/com
+
+---
