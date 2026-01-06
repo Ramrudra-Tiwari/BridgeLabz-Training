@@ -4,8 +4,10 @@ This week focuses on understanding and implementing *Object-Oriented Programming
 
 ---
 
-## 🗓 Day 1 – Classes & Objects  
+## 📅 Day 1 – Classes & Objects  
 *📅 26 December 2025*
+
+**Topics Covered**
 
 - Learned the basics of *procedural programming* and its limitations.
 - Studied the overview and importance of *Object-Oriented Programming (OOP)*.
@@ -13,9 +15,12 @@ This week focuses on understanding and implementing *Object-Oriented Programming
 - Practiced writing simple Java programs to create classes and instantiate objects.
 - Gained clarity on how OOP helps in better code organization and reusability.
 
+---
 
-##🗓 Day 2 – Constructors & Access Modifiers
+## 📅 Day 2 – Constructors & Access Modifiers
 *📅 27 December 2025
+
+**Topics Covered**
 
 -Learned the purpose of constructors for object initialization.
 -Implemented parameterized and default constructors.
@@ -23,11 +28,15 @@ This week focuses on understanding and implementing *Object-Oriented Programming
 -Used instance variables and static variables effectively.
 -Understood how access control improves data security.
 
+---
+
+
 # 📅 Day 3 – this, static, final key words and instanceof operator
-*📅(Date: 29-Dec-2025)
+*📅 Date: 29-Dec-2025 
 
 
-*-Topics Covered*
+**Topics Covered**
+
  - this Keyword
  - Common Uses of this
  - static Keyword
@@ -44,3 +53,24 @@ This week focuses on understanding and implementing *Object-Oriented Programming
 
 🔗 *Code Link:*  
 👉 [this, static, final key words and instanceof operator] https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/thisfinalandstatic
+
+---
+
+
+## 📅 Day 4 - Java Inheritance
+*📅(Date: 31-Dec-2025)
+
+**Topics Covered**
+
+- Inheritance
+- Single Level Inheritance
+- Multilevel Inheritance
+- Hierarchical Inheritance
+- Key Features of Inheritance
+- Method Overriding
+- Constructor Inheritance in Java
+- Polymorphism and Inheritance
+ - Access Modifiers and Inheritance
+**🔗 *Code Link:***
+👉 [Inheritance] https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance
+---
