@@ -1,4 +1,4 @@
-#📅 Week 1: Git, GitHub & Java Programming Fundamentals
+**#📅 Week 1: Git, GitHub & Java Programming Fundamentals**
 
 ##  Day 1 – Git & GitHub Setup
 (Date: 16-Dec-2025)
@@ -126,7 +126,7 @@ Committed and pushed all changes successfully.
 
 ---
 
-#📅 Week 2: Object-Oriented Programming Concepts
+**#📅 Week 2: Object-Oriented Programming Concepts**
 
 This week focuses on understanding and implementing *Object-Oriented Programming (OOP)* principles using Java.
 
@@ -160,18 +160,18 @@ This week focuses on understanding and implementing *Object-Oriented Programming
 
 -Topics Covered
 
-this Keyword
-Common Uses of this
-static Keyword
-Key Features of the static Keyword
-Static Methods
-Static Block
-Static Nested Class
-Advantages of the static Keyword
-Limitations of the static Keyword
-final Keyword
-Final Methods
-Final Classes
+ - this Keyword
+ - Common Uses of this
+ - static Keyword
+ -Key Features of the static Keyword
+ -Static Methods
+ -Static Block
+ -Static Nested Class
+ -Advantages of the static Keyword
+ -Limitations of the static Keyword
+ -final Keyword
+ -Final Methods
+ -Final Classes
 instanceof Operator
 🔗 Code Link:
 👉 [this, static, final key words and instanceof operator] https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/thisfinalandstatic
@@ -194,6 +194,8 @@ instanceof Operator
  - Access Modifiers and Inheritance
 **🔗 *Code Link:***
 👉 [Inheritance] https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance
+---
+
 
 ##📅 Day 5 - Java Encapsulation and Polymorphism
 *📅(Date: 01-Jan-2026)
