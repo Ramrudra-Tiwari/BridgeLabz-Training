@@ -1,6 +1,6 @@
-📅 Week 1: Git, GitHub & Java Programming Fundamentals
+#📅 Week 1: Git, GitHub & Java Programming Fundamentals
 
-🗓 Day 1 – Git & GitHub Setup
+##  Day 1 – Git & GitHub Setup
 (Date: 16-Dec-2025)
 
 Installed and configured Git.
@@ -21,8 +21,9 @@ BridgeLabz-Training/
 Learned basic Git commands (init, clone, add, commit, push).
 Successfully pushed files to the remote repository.
 
+--- 
 
-🗓 Day 2 – Git Practice & Basic Java Programs
+## Day 2 – Git Practice & Basic Java Programs
 (Date: 17-Dec-2025)
 
 Practiced Git workflow to understand commits and version control.
@@ -31,9 +32,9 @@ Practiced adding, committing, and pushing Java files to GitHub.
 🔗 Code Link:
 👉 [Day 2 – Basic Java Programs]https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite
 
+---
 
-
-🗓 Day 3 – Programming Elements in Java
+## Day 3 – Programming Elements in Java
 (Date: 18-Dec-2025)
 
 Studied Java programming elements:
@@ -45,8 +46,10 @@ Committed and pushed solutions to the repository.
 🔗 Code Link:
 👉 [Day 3 – Programming Elements]https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements
 
+---
 
-🗓 Day 4 – Control Flow & Logical Constructs
+
+## Day 4 – Control Flow & Logical Constructs
 (Date: 19-Dec-2025)
 
 Studied logical constructs in Java:
@@ -65,9 +68,10 @@ Committed and pushed solutions to the repository.
 🔗 Code Link:
 👉 [Day 4 – Control Flow]https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow
 
+---
 
 
-🗓 Day 5 – Arrays & Basic Problem Solving
+## Day 5 – Arrays & Basic Problem Solving
 (Date: 20-Dec-2025)
 
 Studied arrays in Java:
@@ -82,8 +86,9 @@ Committed and pushed solutions to the repository.
 🔗 Code Link:
 👉 [Day 5 – Arrays]https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays
 
+---
 
-🗓 Day 6 – Strings & Methods
+## Day 6 – Strings & Methods
 (Date: 22-Dec-2025)
 
 Studied String concepts:
@@ -100,8 +105,9 @@ Committed and pushed solutions to the repository.
 🔗 Code Link:
 👉 [Day 6 – Strings & Methods]https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings
 
+---
 
-🗓 Day 7 – Built-in Functions & Extra Practice
+## Day 7 – Built-in Functions & Extra Practice
 (Date: 23-Dec-2025)
 
 Practiced Java built-in functions.
@@ -115,8 +121,9 @@ Committed and pushed all changes successfully.
 🔗 Code Link:
 👉 [Day 7 – Built-in Functions]https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras
 
+---
 
-📘 Week 2: Object-Oriented Programming Concepts
+#📅 Week 2: Object-Oriented Programming Concepts
 
 This week focuses on understanding and implementing *Object-Oriented Programming (OOP)* principles using Java.
 
@@ -131,6 +138,7 @@ This week focuses on understanding and implementing *Object-Oriented Programming
 - Practiced writing simple Java programs to create classes and instantiate objects.
 - Gained clarity on how OOP helps in better code organization and reusability.
 
+ ---
 
 ## Day 2 – Constructors & Access Modifiers
 *📅 27 December 2025
@@ -140,6 +148,9 @@ This week focuses on understanding and implementing *Object-Oriented Programming
 -Studied access modifiers: public, private, protected.
 -Used instance variables and static variables effectively.
 -Understood how access control improves data security.
+
+--- 
+
 
 ## 📅 Day 3 – this, static, final key words and instanceof operator
 *📅(Date: 29-Dec-2025)
@@ -161,3 +172,22 @@ Final Classes
 instanceof Operator
 🔗 Code Link:
 👉 [this, static, final key words and instanceof operator] https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/thisfinalandstatic
+
+--- 
+
+## 📅 Day 4 - Java Inheritance
+
+**Topics Covered**
+
+- Inheritance
+- Single Level Inheritance
+- Multilevel Inheritance
+- Hierarchical Inheritance
+- Key Features of Inheritance
+- Method Overriding
+- Constructor Inheritance in Java
+- Polymorphism and Inheritance
+ - Access Modifiers and Inheritance
+**🔗 *Code Link:***
+👉 [Inheritance] https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance
+
