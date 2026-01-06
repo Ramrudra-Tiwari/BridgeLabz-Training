@@ -22,3 +22,25 @@ This week focuses on understanding and implementing *Object-Oriented Programming
 -Studied access modifiers: public, private, protected.
 -Used instance variables and static variables effectively.
 -Understood how access control improves data security.
+
+# 📅 Day 3 – this, static, final key words and instanceof operator
+*📅(Date: 29-Dec-2025)
+
+
+*-Topics Covered*
+ - this Keyword
+ - Common Uses of this
+ - static Keyword
+ - Key Features of the static Keyword
+ - Static Methods
+ - Static Block
+ - Static Nested Class
+ - Advantages of the static Keyword
+ - Limitations of the static Keyword
+ - final Keyword
+ - Final Methods
+ - Final Classes
+ - instanceof Operator
+
+🔗 *Code Link:*  
+👉 [this, static, final key words and instanceof operator] https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/thisfinalandstatic
