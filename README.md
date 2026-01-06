@@ -1,53 +1,22 @@
-# 📅 Week 2: Procedural & Object-Oriented Programming 
+📅 Week 1: Git, GitHub & Java Programming Fundamentals
 
-*(Date: 26-Dec-2025)*
+🗓 Day 1 – Git & GitHub Setup
+(Date: 16-Dec-2025)
 
--*Topics Covered*
- - Procedural Programming
- - Introduction and program structure
- - Sample program with output and explanation
- - Key features and limitations
- - Comparison with Object-Oriented Programming
- - Object-Oriented Programming (OOP)
- - Introduction to OOP
- - Advantages over procedural programming
- - Procedural vs OOP comparison
- - Java: Class and Object
- - Definition of class and object
- - Syntax and examples
- - Class vs object
- - Key concepts and best practices
- - Programming Practice
- - Class & object based programs
- - Procedural programming examples
- - Practice problems for concept reinforcement
----
-
-# 📅 Week 2: Constructors & Access Modifiers
-
-*(Date: 27-Dec-2025)*
-
-*-Topics Covered*
- - Best Practices in Constructors 
- - Use of this keyword
- - Constructor overloading
- - Constructor chaining
- - Copy constructor
- - Keeping constructors lightweight
- - Encapsulating logic using private methods
- - Best Practices in Access Modifiers
- - Least privilege principle
- - Encapsulation using private variables
- - Getters and setters
- - Proper use of protected
- - Avoiding unnecessary public access
- - Preventing data leakage
- - Instance vs Class Variables and Methods
- - Static variables and static methods
- - Programming Practice
- - Constructor based programs
- - Instance vs class member programs
- - Access modifier based programs
- - Practice problems for concept reinforcement
-
----
+Installed and configured Git.
+Set up GitHub repository.
+BridgeLabz-Training/
+│── core-java-practice/
+│ │── gcr-codebase/
+│ │ │── arrays/
+│ │ │── control-flow/
+│ │ │── extras/
+│ │ │── methods/
+│ │ │── programming-elements/
+│ │ │── programming-requisites/
+│ │ │── strings/
+│ │── leet-code-codebase/
+│ │── scenario-based-codebase/
+│── README.md
+Learned basic Git commands (init, clone, add, commit, push).
+Successfully pushed files to the remote repository.
