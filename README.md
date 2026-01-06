@@ -29,6 +29,10 @@ Successfully pushed files to the remote repository.
 ## 📅 Day 2 – Git Practice & Basic Java Programs
 📅 (Date: 17-Dec-2025)
 
+**Topics Covered**
+
+
+
 Practiced Git workflow to understand commits and version control.
 Solved very basic Java programs to understand syntax and structure.
 Practiced adding, committing, and pushing Java files to GitHub.
@@ -39,6 +43,10 @@ Practiced adding, committing, and pushing Java files to GitHub.
 
 ## 📅 Day 3 – Programming Elements in Java
 📅(Date: 18-Dec-2025)
+
+
+**Topics Covered**
+
 
 Studied Java programming elements:
 Variables and data types
@@ -54,6 +62,10 @@ Committed and pushed solutions to the repository.
 
 ## 📅Day 4 – Control Flow & Logical Constructs
 📅 (Date: 19-Dec-2025)
+
+**Topics Covered**
+
+
 
 Studied logical constructs in Java:
 if, if-else
@@ -77,6 +89,10 @@ Committed and pushed solutions to the repository.
 ## 📅 Day 5 – Arrays & Basic Problem Solving
 📅 (Date: 20-Dec-2025)
 
+**Topics Covered**
+
+
+
 Studied arrays in Java:
 Single-dimensional arrays
 Multi-dimensional arrays
@@ -93,6 +109,10 @@ Committed and pushed solutions to the repository.
 
 ##  📅 Day 6 – Strings & Methods
  📅 (Date: 22-Dec-2025)
+
+ **Topics Covered**
+
+ 
 
 Studied String concepts:
 String creation
@@ -112,6 +132,10 @@ Committed and pushed solutions to the repository.
 
 ##  📅 Day 7 – Built-in Functions & Extra Practice
  📅 (Date: 23-Dec-2025)
+
+ **Topics Covered**
+
+ 
 
 Practiced Java built-in functions.
 Implemented utility programs such as:
@@ -135,6 +159,10 @@ This week focuses on understanding and implementing *Object-Oriented Programming
 ##  📅 Day 1 – Classes & Objects  
 *📅 26 December 2025*
 
+**Topics Covered**
+
+
+
 - Learned the basics of *procedural programming* and its limitations.
 - Studied the overview and importance of *Object-Oriented Programming (OOP)*.
 - Understood core Java concepts such as *Class* and *Object*.
@@ -145,6 +173,11 @@ This week focuses on understanding and implementing *Object-Oriented Programming
 
 ##  📅 Day 2 – Constructors & Access Modifiers
 *📅 27 December 2025
+
+
+**Topics Covered**
+
+
 
 -Learned the purpose of constructors for object initialization.
 -Implemented parameterized and default constructors.
@@ -247,3 +280,16 @@ instanceof Operator
 👉 [Java OOPs Scenario-based Problems] https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodebase/src/com
 
 ---
+
+
+## 📅 Day 7 - Java OOPs Scenario-based Problems
+*📅 (Date: 06-Jan-2026)
+
+**Topics Covered**
+
+
+8. CampusConnect – College Information System
+9. SwiftCart – The Grocery Shopping App
+
+🔗 *Code Link:*  
+👉 [Java OOPs Scenario-based Problems] https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodebase/src/com
