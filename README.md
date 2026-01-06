@@ -132,7 +132,7 @@ This week focuses on understanding and implementing *Object-Oriented Programming
 
 ---
 
-## 🗓 Day 1 – Classes & Objects  
+## Day 1 – Classes & Objects  
 *📅 26 December 2025*
 
 - Learned the basics of *procedural programming* and its limitations.
@@ -156,7 +156,7 @@ This week focuses on understanding and implementing *Object-Oriented Programming
 
 
 ## 📅 Day 3 – this, static, final key words and instanceof operator
-*📅(Date: 29-Dec-2025)
+*📅 (Date: 29-Dec-2025)
 
 -Topics Covered
 
@@ -178,7 +178,7 @@ instanceof Operator
 
 --- 
 
-## 📅 Day 4 - Java InheritanceDay 5 - Java Encapsulation and Polymorphism
+## 📅 Day 4 - Java Inheritance
 *📅(Date: 31-Dec-2025)
 
 **Topics Covered**
@@ -197,7 +197,7 @@ instanceof Operator
 ---
 
 
-##📅 Day 5 - Java Encapsulation and Polymorphism
+## 📅 Day 5 - Java Encapsulation and Polymorphism
 *📅(Date: 01-Jan-2026)
 
 **Topics Covered**
