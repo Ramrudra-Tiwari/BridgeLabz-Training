@@ -116,7 +116,7 @@ Committed and pushed all changes successfully.
 👉 [Day 7 – Built-in Functions]https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras
 
 
-# 📘 Week 2: Object-Oriented Programming Concepts
+📘 Week 2: Object-Oriented Programming Concepts
 
 This week focuses on understanding and implementing *Object-Oriented Programming (OOP)* principles using Java.
 
@@ -132,7 +132,7 @@ This week focuses on understanding and implementing *Object-Oriented Programming
 - Gained clarity on how OOP helps in better code organization and reusability.
 
 
-##🗓 Day 2 – Constructors & Access Modifiers
+## Day 2 – Constructors & Access Modifiers
 *📅 27 December 2025
 
 -Learned the purpose of constructors for object initialization.
@@ -141,7 +141,7 @@ This week focuses on understanding and implementing *Object-Oriented Programming
 -Used instance variables and static variables effectively.
 -Understood how access control improves data security.
 
-📅 Day 3 – this, static, final key words and instanceof operator
+## 📅 Day 3 – this, static, final key words and instanceof operator
 *📅(Date: 29-Dec-2025)
 
 -Topics Covered
