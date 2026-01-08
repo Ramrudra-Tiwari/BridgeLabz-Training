@@ -33,9 +33,10 @@ Successfully pushed files to the remote repository.
 
 
 
-Practiced Git workflow to understand commits and version control.
-Solved very basic Java programs to understand syntax and structure.
-Practiced adding, committing, and pushing Java files to GitHub.
+-Practiced Git workflow to understand commits and version control.
+-Solved very basic Java programs to understand syntax and structure.
+-Practiced adding, committing, and pushing Java files to GitHub.
+
 🔗 Code Link:
 👉 [Day 2 – Basic Java Programs]https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite
 
@@ -48,12 +49,13 @@ Practiced adding, committing, and pushing Java files to GitHub.
 **Topics Covered**
 
 
-Studied Java programming elements:
-Variables and data types
-Operators
-User input and output
-Solved practice problems based on programming elements.
-Committed and pushed solutions to the repository.
+-Studied Java programming elements:
+-Variables and data types
+-Operators
+-User input and output
+-Solved practice problems based on programming elements.
+-Committed and pushed solutions to the repository.
+
 🔗 Code Link:
 👉 [Day 3 – Programming Elements]https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements
 
@@ -67,19 +69,20 @@ Committed and pushed solutions to the repository.
 
 
 
-Studied logical constructs in Java:
-if, if-else
-switch statement
-ternary operator
-Practiced iteration statements:
-for loop
-while loop
-do-while loop
-Used break and continue statements.
-Solved logical problems such as:
-Factorial
-Prime number check
-Committed and pushed solutions to the repository.
+-Studied logical constructs in Java:
+-if, if-else
+-switch statement
+-ternary operator
+-Practiced iteration statements:
+-for loop
+-while loop
+-do-while loop
+-Used break and continue statements.
+-Solved logical problems such as:
+-Factorial
+-Prime number check
+-Committed and pushed solutions to the repository.
+
 🔗 Code Link:
 👉 [Day 4 – Control Flow]https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow
 
@@ -93,15 +96,16 @@ Committed and pushed solutions to the repository.
 
 
 
-Studied arrays in Java:
-Single-dimensional arrays
-Multi-dimensional arrays
-Practiced array traversal and operations.
-Solved problems related to:
-Finding missing elements
-Basic array-based logic
-Strengthened logical thinking using array problems.
-Committed and pushed solutions to the repository.
+-Studied arrays in Java:
+-Single-dimensional arrays
+-Multi-dimensional arrays
+-Practiced array traversal and operations.
+-Solved problems related to:
+-Finding missing elements
+-Basic array-based logic
+-Strengthened logical thinking using array problems.
+-Committed and pushed solutions to the repository.
+
 🔗 Code Link:
 👉 [Day 5 – Arrays]https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays
 
@@ -114,17 +118,18 @@ Committed and pushed solutions to the repository.
 
  
 
-Studied String concepts:
-String creation
-String methods
-Character processing
-Implemented programs for string manipulation.
-Studied Java methods:
-Method declaration
-Method calling
-Parameter passing
-Practiced reusable logic using methods.
-Committed and pushed solutions to the repository.
+-Studied String concepts:
+-String creation
+-String methods
+-Character processing
+-Implemented programs for string manipulation.
+-Studied Java methods:
+-Method declaration
+-Method calling
+-Parameter passing
+-Practiced reusable logic using methods.
+-Committed and pushed solutions to the repository.
+
 🔗 Code Link:
 👉 [Day 6 – Strings & Methods]https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings
 
@@ -137,14 +142,15 @@ Committed and pushed solutions to the repository.
 
  
 
-Practiced Java built-in functions.
-Implemented utility programs such as:
-Temperature Converter
-Improved understanding of:
-Input handling
-Type conversion
-Organized programs into proper folders.
-Committed and pushed all changes successfully.
+-Practiced Java built-in functions.
+-Implemented utility programs such as:
+-Temperature Converter
+-Improved understanding of:
+-Input handling
+-Type conversion
+-Organized programs into proper folders.
+-Committed and pushed all changes successfully.
+
 🔗 Code Link:
 👉 [Day 7 – Built-in Functions]https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras
 
