@@ -293,3 +293,19 @@ instanceof Operator
 
 🔗 *Code Link:*  
 👉 [Java OOPs Scenario-based Problems] https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodebase/src/com
+
+---
+
+
+# 📘 Week 3: Data-Structure
+This week focuses on understanding and implementing *Data-Structure* principles using Java.
+
+---
+## Day 1: LinkedList
+**📅 02 January 2026** 
+- created new branch name "dsa-practice"
+- solved many problem based on linkedlist
+- Solved practice problems and enchance the feature
+- Pushed solutions to GitHub
+- Code Link: [dsa-practice(linkedlist)](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/linkedlist)
+---
