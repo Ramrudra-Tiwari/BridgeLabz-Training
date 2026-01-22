@@ -342,3 +342,14 @@ This week focuses on understanding and implementing *Data-Structure* principles 
 - Pushed solution to GitHub
 - Code Link: [dsa-practice(sorting)](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/sorting/algorithms)
 ---
+
+
+
+
+### Date 06-Jan-2026 ( Linear Search,Binary Search and scenario-code-base problem)
+- Worked on "dsa-practice" and "java-oops-practice" branch
+- Solved many problem based on Linear Search, Binary Search, BufferReader, StringBuffer and StringBuilder
+- Pushed solution to Github
+- Code Link: [dsa-practice(Searching)](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/stringfileandsearch)
+- Code Link: [java-oops-practice(scenario-code-base)](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase)
+---
