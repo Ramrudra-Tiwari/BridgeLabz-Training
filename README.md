@@ -353,3 +353,13 @@ This week focuses on understanding and implementing *Data-Structure* principles 
 - Code Link: [dsa-practice(Searching)](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/stringfileandsearch)
 - Code Link: [java-oops-practice(scenario-code-base)](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase)
 ---
+
+
+---
+### Date 07-Jan-2026 (Algorithm's Runtime Analysis & Big-O Notation)
+- Worked on "dsa-practice" and "java-oops-practice" branch
+- Solved and learned Algorithm's Runtime Analysis & Big-O Notation
+- Pushed solution to Github
+- Code Link: [dsa-practice(Notation)](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/runtimeanalysis) 
+- Code Link: [java-oops-practice(scenario-code-base)](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodebase/src/com)
+---
