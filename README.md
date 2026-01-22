@@ -363,3 +363,12 @@ This week focuses on understanding and implementing *Data-Structure* principles 
 - Code Link: [dsa-practice(Notation)](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/runtimeanalysis) 
 - Code Link: [java-oops-practice(scenario-code-base)](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodebase/src/com)
 ---
+
+
+---
+### Date 08-Jan-2026 (Scenario-based problems)
+- Worked on "java-oops-practice" branch
+- Solved scenario-based problem
+- Pushed solutions on GitHub
+- Code Link: [java-oops-practice(scenario-code-base)](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodebase/src/com)
+---
