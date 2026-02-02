@@ -449,3 +449,31 @@ This week focuses on understanding and implementing *Data-Structure* principles 
 - Improved design and problem-solving skills
 
 ---
+
+
+## 🗓️ Week 5 – Java IO Progamming
+**Focus:** CSV File Handling and JSON
+
+---
+
+### Day 33 – CSV Handling
+**Date:** 23-Jan-2026  
+- Solved Problems based on the CSV Handling
+- Created new branch `java-iostreams-practice`  
+- Improved design and problem-solving skills  
+
+🔗 Code Link:  
+- [java-iostreams-practice](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-iostream-practice/java-iostream-practice/gcr-code-base/JavaIoStreams/src/com/csv_data_handling)
+
+---
+
+
+### Day 34 – JSON Data
+**Date:** 24-Jan-2026  
+- Solved Problems based on the JSON Data
+- Improved design and problem-solving skills  
+
+🔗 Code Link:  
+- [java-iostreams-practice](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-iostream-practice/java-iostream-practice/gcr-code-base/JavaIoStreams/src/com/json)
+
+---
