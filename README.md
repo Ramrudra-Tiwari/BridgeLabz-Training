@@ -1,9 +1,25 @@
-# 📅 Week 1: Git, GitHub & Java Programming Fundamentals**
+# 📘 BridgeLabz Training Progress Log
+
+This repository tracks my **daily learning journey** during the  
+**BridgeLabz – Java Full Stack Training Program**.
+
+Each day includes:
+- Concepts learned
+- Hands-on practice
+- Scenario-based problems
+- GitHub commits with code links
 
 ---
-### Date 08-Jan-2026 (Scenario-based problems)
-- Worked on "java-oops-practice" branch
-- Solved scenario-based problem
-- Pushed solutions on GitHub
-- Code Link: [java-oops-practice(scenario-code-base)](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodebase/src/com)
+
+### Day 34 – Java 8 & It's Features
+**Date:** 27-Jan-2026  
+- Create new branch `java8-programmming-practice`
+- Solved Collections Problems based on Lambda Expressions
+- Solved Collections Problems based on Functional Interfaces
+- Improved design and problem-solving skills  
+
+🔗 Code Link:  
+- [java8-programmming-practice(Lambda Expressions)](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-code-base/Java8Features/src/com/lambdaexpressions)
+- [java8-programmming-practice(Functional Interfaces)](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-code-base/Java8Features/src/com/functionalInterfaces)
+
 ---
