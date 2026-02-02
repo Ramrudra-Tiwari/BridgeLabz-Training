@@ -64,3 +64,13 @@ Each day includes:
 - [java-collections-practice(junit)](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/regexjunit/junitquestions)
 
 ---
+
+### Day 31 – Annotations and Reflection
+**Date:** 22-Jan-2025  
+- Solved Problem based on Java Annotations and Reflection
+- Improved design and problem-solving skills
+
+🔗 Code Link:  
+- [java-collections-practice(annotations)](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/annotationsreflection/annotations)
+- [java-collections-practice(reflections)](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/annotationsreflection/reflection)
+---
