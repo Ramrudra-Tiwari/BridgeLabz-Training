@@ -21,3 +21,14 @@ Each day includes:
 - [java-iostreams-practice](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-iostream-practice/java-iostream-practice/gcr-code-base/JavaIoStreams/src/com/csv_data_handling)
 
 ---
+
+
+### Day 34 – JSON Data
+**Date:** 24-Jan-2026  
+- Solved Problems based on the JSON Data
+- Improved design and problem-solving skills  
+
+🔗 Code Link:  
+- [java-iostreams-practice](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-iostream-practice/java-iostream-practice/gcr-code-base/JavaIoStreams/src/com/json)
+
+---
