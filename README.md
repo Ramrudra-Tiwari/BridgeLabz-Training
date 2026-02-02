@@ -23,3 +23,16 @@ Each day includes:
 - [java8-programmming-practice(Functional Interfaces)](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-code-base/Java8Features/src/com/functionalInterfaces)
 
 ---
+
+### Day 35 – Scenario Based Problem, Stream API & Collectors 
+**Date:** 28-Jan-2026  
+- Solved Stream API Problems
+- Solved Collectors Problems
+- Solved Sceanrio based problem in Stream API
+- Improved design and problem-solving skills  
+
+🔗 Code Link:  
+- [java8-programmming-practice(streamAPI)](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-code-base/Java8Features/src/com/streamAPI)
+- [java8-programmming-practice(collectors)](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-code-base/Java8Features/src/com/collectors)
+
+---
