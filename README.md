@@ -31,3 +31,15 @@ Each day includes:
 - [java-collections-practice](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/collections)
 
 ---
+
+### Day 28 – Java Streams
+**Date:** 19-Jan-2025  
+- Solved Problem based on Java Streams
+- Improved design & problem-solving skills
+
+🔗 Code Link:  
+- [java-collections-practice](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/streams)
+
+---
+
+---
