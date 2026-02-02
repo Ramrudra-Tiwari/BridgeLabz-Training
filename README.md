@@ -74,3 +74,10 @@ Each day includes:
 - [java-collections-practice(annotations)](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/annotationsreflection/annotations)
 - [java-collections-practice(reflections)](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/annotationsreflection/reflection)
 ---
+
+### Day 32 – Scenario based Problems
+**Date:** 22-Jan-2025  
+- Solved Collections Problems based on scenario 
+- Improved design and problem-solving skills
+
+---
