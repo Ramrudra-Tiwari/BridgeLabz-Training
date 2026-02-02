@@ -477,3 +477,37 @@ This week focuses on understanding and implementing *Data-Structure* principles 
 - [java-iostreams-practice](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-iostream-practice/java-iostream-practice/gcr-code-base/JavaIoStreams/src/com/json)
 
 ---
+
+
+---
+
+## 🗓️ Week 6 – Java 8 Features
+**Focus:** Lambda Expression and Function Interfaces
+
+---
+
+### Day 34 – Java 8 & It's Features
+**Date:** 27-Jan-2026  
+- Create new branch `java8-programmming-practice`
+- Solved Collections Problems based on Lambda Expressions
+- Solved Collections Problems based on Functional Interfaces
+- Improved design and problem-solving skills  
+
+🔗 Code Link:  
+- [java8-programmming-practice(Lambda Expressions)](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-code-base/Java8Features/src/com/lambdaexpressions)
+- [java8-programmming-practice(Functional Interfaces)](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-code-base/Java8Features/src/com/functionalInterfaces)
+
+---
+
+### Day 35 – Scenario Based Problem, Stream API & Collectors 
+**Date:** 28-Jan-2026  
+- Solved Stream API Problems
+- Solved Collectors Problems
+- Solved Sceanrio based problem in Stream API
+- Improved design and problem-solving skills  
+
+🔗 Code Link:  
+- [java8-programmming-practice(streamAPI)](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-code-base/Java8Features/src/com/streamAPI)
+- [java8-programmming-practice(collectors)](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-code-base/Java8Features/src/com/collectors)
+
+---
