@@ -21,3 +21,13 @@ Each day includes:
 - [java-collections-practice](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/generics)
 
 ---
+
+### Day 27 – Java Collections
+**Date:** 16-Jan-2025  
+- Solved Problem based on Java Collections
+- Improved design & problem-solving skills
+
+🔗 Code Link:  
+- [java-collections-practice](https://github.com/Ramrudra-Tiwari/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/collections)
+
+---
