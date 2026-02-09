@@ -1,0 +1,123 @@
+
+/*
+    Exercise 3: Advanced Features
+    Build a library management system with:
+    • Book inventory
+    • Student borrowing records
+    • Fine calculation
+    • Search functionality with multiple filters
+*/
+
+-- TASK 0 [SETUP DATABASE]
+
+CREATE DATABASE librarymanagement;
+USE librarymanagement;
+
+--creating books table
+CREATE TABLE books(
+    bookId INT AUTO_INCREMENT PRIMARY KEY,
+    bookName VARCHAR(50) NOT NULL,
+    bookPrice DECIMAL(10,2) NOT NULL
+    );
+
+--creating user table
+CREATE TABLE user(
+    userId INT AUTO_INCREMENT PRIMARY KEY,
+    userName VARCHAR(50),
+    );
+
+-- insert book data
+INSERT INTO books
+    (bookName, bookPrice)
+    VALUES
+    ('automic habits', 499),
+    ('power of mind', 599),
+    ('rich dad poor dad' , 600),
+    ('think rich grow rich', 700)
+    ;
+
+SELECT * FROM books;
++--------+----------------------+-----------+
+| bookId | bookName             | bookPrice |
++--------+----------------------+-----------+
+|      1 | automic habits       |    499.00 |
+|      2 | power of mind        |    599.00 |
+|      3 | rich dad poor dad    |    600.00 |
+|      4 | think rich grow rich |    700.00 |
++--------+----------------------+-----------+
+
+-- insert user data
+INSERT INTO user
+    (userName)
+    VALUES
+    ('ravi'),
+    ('kali'),
+    ('allu');
+
+SELECT * FROM user;
++--------+----------+
+| userId | userName |
++--------+----------+
+|      1 | ravi     |
+|      2 | kali     |
+|      3 | allu     |
++--------+----------+
+
+-- TASK 1 [Student borrowing records]
+
+CREATE TABLE borrow_records(
+    borrowId INT AUTO_INCREMENT PRIMARY KEY,
+    userId INT,
+    bookId INT,
+    borrow_date DATE,
+    due_date DATE,
+    return_date DATE,
+    fine DECIMAL(10,2),
+    FOREIGN KEY (userId) REFERENCES user(userId),
+    FOREIGN KEY (bookId) REFERENCES books(bookId)
+    );
+
+INSERT INTO borrow_records
+    (userId, bookId, borrow_date, due_date, return_date, fine)
+    VALUES
+    (1, 1, '2026-02-01', '2026-02-07', '2026-02-10', 0),
+    (2, 4, '2026-02-02', '2026-02-08', '2026-02-08', 0),
+    (3, 2, '2026-02-03', '2026-02-09', NULL, 0);
+
+SELECT * FROM borrow_records;
++----------+--------+--------+-------------+------------+-------------+------+
+| borrowId | userId | bookId | borrow_date | due_date   | return_date | fine |
++----------+--------+--------+-------------+------------+-------------+------+
+|        1 |      1 |      1 | 2026-02-01  | 2026-02-07 | 2026-02-10  | 0.00 |
+|        2 |      2 |      4 | 2026-02-02  | 2026-02-08 | 2026-02-08  | 0.00 |
+|        3 |      3 |      2 | 2026-02-03  | 2026-02-09 | NULL        | 0.00 |
++----------+--------+--------+-------------+------------+-------------+------+
+
+
+-- TASK 2 [Fine calculation]
+UPDATE borrow_records
+    SET fine = CASE
+    WHEN return_date IS NULL THEN 0
+    WHEN return_date>due_date
+    THEN DATEDIFF(return_date,due_date)*10
+    ELSE 0
+    END;
+
+SELECT * FROM borrow_records;
++----------+--------+--------+-------------+------------+-------------+-------+
+| borrowId | userId | bookId | borrow_date | due_date   | return_date | fine  |
++----------+--------+--------+-------------+------------+-------------+-------+
+|        1 |      1 |      1 | 2026-02-01  | 2026-02-07 | 2026-02-10  | 30.00 |
+|        2 |      2 |      4 | 2026-02-02  | 2026-02-08 | 2026-02-08  |  0.00 |
+|        3 |      3 |      2 | 2026-02-03  | 2026-02-09 | NULL        |  0.00 |
++----------+--------+--------+-------------+------------+-------------+-------+
+
+-- TASK 3 [Search functionality with multiple filters]
+SELECT * FROM books
+    WHERE bookId = 4;
+
++--------+----------------------+-----------+
+| bookId | bookName             | bookPrice |
++--------+----------------------+-----------+
+|      4 | think rich grow rich |    700.00 |
++--------+----------------------+-----------+
